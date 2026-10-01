@@ -1,0 +1,32 @@
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# File
+loan_system_By_ME.ipynb
+
+# Environment variables
+.env
+
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# ML / Data files
+*.pkl
+*.joblib
+
+# Logs
+*.log
